@@ -1,0 +1,66 @@
+body {
+   
+}
+
+header {
+
+}
+
+nav ul {
+   
+}
+
+img {
+
+}
+
+nav ul li a {
+   
+}
+
+#banner {
+    
+}
+
+#banner article h1 {
+    
+}
+
+#banner article p {
+    
+}
+
+#banner img{
+    
+}
+
+.link-banner {
+    
+}
+
+.link-banner li {
+    
+}
+
+.link-banner li a {
+    
+}
+
+.link-banner li:hover {
+   
+}
+
+/* Estilos para telas pequenas (Mobile First) */
+@media (max-width: 767px) {
+    
+}
+
+/* Estilos para tablets */
+@media (min-width: 768px) and (max-width: 1023px) {
+   
+}
+
+/* Estilos para desktops */
+@media (min-width: 1024px) {
+    
+}
